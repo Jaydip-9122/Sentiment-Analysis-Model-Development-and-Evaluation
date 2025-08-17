@@ -17,14 +17,6 @@ This project performs **Sentiment Analysis** on text data using Natural Language
 ✅ Visualization of confusion matrices and word clouds  
 ✅ Predict sentiment on new user inputs
 
-## Project Structure
-
-```
-SentimentAnalysis/
-│
-├── SentimentAnalysis.ipynb        # Main Jupyter notebook for step-by-step analysis
-├── dataset.csv                    # Dataset containing text and labels
-└── README.md                      # Project description and instructions
 ```
 
 ## Requirements
