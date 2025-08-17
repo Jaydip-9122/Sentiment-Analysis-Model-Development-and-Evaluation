@@ -66,7 +66,7 @@ The dataset consists of:
 
 ## Results
 
-- Achieved **XX% accuracy** (replace with your result) using [best model].
+- Achieved **80% accuracy**  using Logistic Regression.
 - Visualized most frequent words using word clouds.
 - Confusion matrices illustrate model performance clearly across classes.
 
